@@ -8,7 +8,7 @@ Claim your running activities from the Nike Run Club mobile app and convert them
 
 By using this tool, you can extract your NRC running activities and convert them into GPX (GPS eXchange) format, which can then be imported into other fitness tracking apps or services, such as [Strava](https://www.strava.com/upload/select).
 
-![Upload the output GPX files directly to Strava to sync your activities](https://i.imgur.com/nks8TpK.png)
+![Transfer your NRC activities to Strava](https://i.imgur.com/rIbhSKo.png)
 
 This tool supports providing an access token, or a directory/files of NRC activities in JSON format.
 
