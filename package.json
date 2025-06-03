@@ -1,0 +1,20 @@
+{
+  "name": "claim-nrc",
+  "version": "1.0.0",
+  "description": "Export your runs from Nike Run Club and convert them to GPX format",
+  "main": "claim-nrc.js",
+  "bin": {
+    "claim-nrc": "./claim-nrc.js"
+  },
+  "scripts": {
+    "start": "node claim-nrc.js"
+  },
+  "author": "boolfalse",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "commander": "^14.0.0",
+    "fs-extra": "^11.3.0",
+    "gpx-builder": "^5.6.0"
+  }
+}
